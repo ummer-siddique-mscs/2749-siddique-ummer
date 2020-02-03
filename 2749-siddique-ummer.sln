@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ContosoUniversity", "ContosoUniversity\ContosoUniversity.csproj", "{622DB2B9-0647-4E40-BE08-9C83011D5158}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WideWorldImporters", "WideWorldImporters\WideWorldImporters.csproj", "{22B2DC08-9470-468F-97C3-96173A1A20FF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{622DB2B9-0647-4E40-BE08-9C83011D5158}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{622DB2B9-0647-4E40-BE08-9C83011D5158}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{622DB2B9-0647-4E40-BE08-9C83011D5158}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{622DB2B9-0647-4E40-BE08-9C83011D5158}.Release|Any CPU.Build.0 = Release|Any CPU
+		{22B2DC08-9470-468F-97C3-96173A1A20FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22B2DC08-9470-468F-97C3-96173A1A20FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22B2DC08-9470-468F-97C3-96173A1A20FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22B2DC08-9470-468F-97C3-96173A1A20FF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8A0F6CC1-1584-4928-8DE6-746C72C6DD1E}
+	EndGlobalSection
+EndGlobal
